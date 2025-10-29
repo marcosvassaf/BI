@@ -31,6 +31,6 @@ Permitir o monitoramento contínuo da performance de captação de novos cliente
 - O modelo foi desenvolvido para uso interno, podendo ser adaptado para outros escritórios
 
 ## 👤 Autor
-Marcos (VLINK)  
+Marcos Vinicius Arnold Assaf  
 Desenvolvimento BI e soluções em dados  
 [Instagram da VLINK](https://www.instagram.com/vlink.digital)
