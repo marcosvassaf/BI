@@ -5,8 +5,6 @@ Este relatório em Power BI foi desenvolvido para acompanhar o desempenho comerc
 ## 🎯 Objetivo
 Permitir o monitoramento contínuo da performance de captação de novos clientes, identificando gargalos no funil de vendas e otimizando a tomada de decisão estratégica.<img width="1816" height="750" alt="Prev" src="https://github.com/user-attachments/assets/c9a4cedf-8df3-40e7-aaf5-8b0f31ca224f" />
 
-<img width="1813" height="752" alt="Prev" src="https://github.com/user-attachments/assets/417fcd32-15b4-4eaa-8041-8199e5c4767d" />
-
 ## 📊 Principais Indicadores
 - Número de novos leads
 - Taxa de conversão por etapa
