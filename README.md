@@ -37,4 +37,4 @@ Permitir o monitoramento contínuo da performance de captação de novos cliente
 ## 👤 Autor
 Marcos Vinicius Arnold Assaf  
 Desenvolvimento BI e soluções em dados  
-[Instagram da VLINK](https://www.instagram.com/vlink.digital)
+[linkedin MArcos Assaf](www.linkedin.com/in/marcosassaf)
