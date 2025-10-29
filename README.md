@@ -3,7 +3,9 @@
 Este relatório em Power BI foi desenvolvido para acompanhar o desempenho comercial de um escritório de advocacia, oferecendo uma visão clara sobre prospecção, andamento de negociações e taxas de fechamento.
 
 ## 🎯 Objetivo
-Permitir o monitoramento contínuo da performance de captação de novos clientes, identificando gargalos no funil de vendas e otimizando a tomada de decisão estratégica.
+Permitir o monitoramento contínuo da performance de captação de novos clientes, identificando gargalos no funil de vendas e otimizando a tomada de decisão estratégica.<img width="1816" height="750" alt="Prev" src="https://github.com/user-attachments/assets/c9a4cedf-8df3-40e7-aaf5-8b0f31ca224f" />
+
+![Uploading Prev.png…]()
 
 ## 📊 Principais Indicadores
 - Número de novos leads
