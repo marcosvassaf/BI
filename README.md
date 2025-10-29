@@ -16,7 +16,9 @@ Permitir o monitoramento contínuo da performance de captação de novos cliente
 - Evolução mensal de prospecções e fechamentos
 
 ## 🔗 Visualização Online
-[Acesse o dashboard completo aqui](https://app.powerbi.com/view?r=eyJrIjoiNzBkMDZkNzktOTc3OC00MGNlLWE1OTUtYjk5N2Y4MWY0YjkwIiwidCI6ImJiZTg5NjYxLWQ2ODEtNGI0Ni05MGRlLWMxYWQwMDY0ZWU3ZiIsImMiOjl9)
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNzBkMDZkNzktOTc3OC00MGNlLWE1OTUtYjk5N2Y4MWY0YjkwIiwidCI6ImJiZTg5NjYxLWQ2ODEtNGI0Ni05MGRlLWMxYWQwMDY0ZWU3ZiIsImMiOjl9" target="_blank">
+  Acesse o dashboard completo aqui 🔗
+</a>
 
 ## 📁 Estrutura
 - `dashboard_advocacia.pbix` → arquivo Power BI
